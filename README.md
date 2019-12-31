@@ -1,5 +1,5 @@
 # ModelLoader-OpenGL
-Loading a model into OpenGL and shading it
+Starter code by Brian Summa for his Intro to Computer Graphics course. Loading a model into OpenGL and shading it
 
 
 ● Click dragging the mouse rotates the model via quaternion trackball <br />
